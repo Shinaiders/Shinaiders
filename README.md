@@ -25,7 +25,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shinaiders/Shinaiders/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinaiders)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinaiders&hide_progress=true)
 
 
