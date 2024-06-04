@@ -1,4 +1,4 @@
-## Olá Meu Nome é Lucas Santana 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Lucas.;Meus+Contatos+est%C3%A1+Logo+Abaixo!;Fique+a+vontade+de+perguntar+algo!)](https://git.io/typing-svg)
 
 
 
