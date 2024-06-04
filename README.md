@@ -2,7 +2,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shinaiders)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shinaiders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
   <h1>Tecnologias que utilizo!</h1>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
