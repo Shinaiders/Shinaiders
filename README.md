@@ -27,6 +27,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinaiders&hide_progress=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shinaiders&show_icons=true&locale=en&layout=compact" alt="Shinaiders" /></p>
 
 
 <!--
